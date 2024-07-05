@@ -1,0 +1,5 @@
+{
+  "name": "Home Assistant Add-on: Zigbee2MQTT Proxy by Mastria",
+  "url": "http://anonymous@synology.local:5005:/repos/z2m-mastria",
+  "maintainer": "Marco Mastria <marco@mastria.com.br>"
+}
